@@ -4,6 +4,7 @@ A modern, responsive and animated product landing page built with **HTML**, **CS
 Smooth scroll-based reveal effects, clean UI, and built completely without external libraries or images.
 
 ## 📸 Preview
+https://piyush2707.github.io/product-lauch-page/#features
 
 
 ---
@@ -21,13 +22,4 @@ Smooth scroll-based reveal effects, clean UI, and built completely without exter
 
 - HTML5  
 - CSS3  
-- JavaScript (Vanilla)
-
----
-
-## 🛠️ How to Run Locally
-
-```bash
-git clone https://github.com/piyush-joshi/product-showcase-landing-page.git
-cd product-showcase-landing-page
-open index.html
+- JavaScript 
